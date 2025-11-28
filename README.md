@@ -28,7 +28,7 @@ analysed.
 
 
 **1. Histograms (Distribution of Data)**
-
+![Histograms](1_histograms.png)
 What is this?
 
 Think of this as a "headcount" for every question in the survey.
@@ -50,7 +50,7 @@ each number.
 
 
 **2. Boxplots (Outlier Detection)**
-
+![Boxplots (Outlier Detection)](2_boxplots.png)
 What is this?
 
 A boxplot is a way to look at the "spread" of grades or study hours.
@@ -75,7 +75,7 @@ their statistical range.
 
 
 **3. Correlation Matrix (Heatmap)**
-
+![Correlation Matrix (Heatmap)](3_correlation_matrix.png)
 What is this?
 
 This is a grid that checks if two questions "move together."
@@ -99,6 +99,7 @@ between -1 and 1 for every pair of questions.
 
 
 **4. Actual vs. Predicted (Model Accuracy)**
+![Actual vs. Predicted (Model Accuracy)](4_actual_vs_predicted.png)
 
 What is this?
 
@@ -123,7 +124,7 @@ model to guess the grades for these hidden students and plotted the answers.
 
 
 - **5. Feature Importance (Bar Chart)**
-
+![Feature Importance (Bar Chart)](5_feature_importance.png)
 What is this?
 
 This is a ranking of "What matters most?" It tells us which survey questions helped the
@@ -144,6 +145,8 @@ you look at the most?"
 
 **6. Course ID Impact (Grade by Course)**
 
+![Course ID Impact (Grade by Course)](6_course_id_impact.png)
+
 What is this?
 
 Since COURSE ID was the #1 predictor, we zoomed in to see why.
@@ -160,7 +163,7 @@ Since COURSE ID was the #1 predictor, we zoomed in to see why.
 
 
 **7. SHAP Summary Plot (The "Why")**
-
+![SHAP Summary Plot (The Why)](7_shap_summary.png)
 
 What is this?
 
@@ -180,7 +183,7 @@ This is an advanced chart that explains direction.
 
 
 **8. SHAP Bar Plot (Simple Ranking)**
-
+![SHAP Bar Plot (Simple Ranking)](8_shap_bar.png)
 What is this?
 
 This is a simplified version of the previous chart. It ignores the "direction" and just
