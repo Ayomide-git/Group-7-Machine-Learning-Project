@@ -1,3 +1,15 @@
+Group 7 Machine Learning Project
+
+Explanation of all files
+
+offline_model.py - The actual model, analyzes the dataset and generates all diagrams. Comments show step-by-step process our group went through.
+
+run_with_ngrok.py - script that hosts the website on user's server.
+
+app.py - Streamlit webapp
+
+model.py - lesser copy of the model linked to the web app. Doesn't generate diagrams.
+
 **Student Performance Analysis: Guide to Diagrams**
 
 **Dataset Overview**
