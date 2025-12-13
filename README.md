@@ -1,6 +1,6 @@
 **Website Preview**
 
-![Student Grade Performance Predictor UI](website_preview.jpg)
+![Student Grade Performance Predictor UI](website_preview.png)
 
 Group 7 Machine Learning Project
 
