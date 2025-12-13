@@ -1,3 +1,7 @@
+**Website Preview**
+
+![Student Grade Performance Predictor UI](website_preview.jpg)
+
 Group 7 Machine Learning Project
 
 Explanation of all files
